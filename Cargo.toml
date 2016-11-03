@@ -1,0 +1,9 @@
+[package]
+name = "tetnus"
+version = "0.1.0"
+authors = [
+    "Javis Sullivan <javissullivan@gmail.com>",
+    "Sam Yaple <sam@yaple.net>"
+]
+
+[dependencies]
